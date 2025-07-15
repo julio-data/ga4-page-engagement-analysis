@@ -2,8 +2,6 @@
 
 Behavioral analysis of web pages using GA4 data in BigQuery. Includes scroll, session duration, engagement rate, and more.
 
-This repository contains a SQL query for analyzing user behavior on individual web pages using GA4 data exported to BigQuery.
-
 The query calculates behavioral metrics per `page_location`, helping you understand how users interact with specific pages.
 
 ## 📊 Metrics included:
